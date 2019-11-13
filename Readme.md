@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Vlad Godenko](https://up.htmlacademy.ru/adaptive/18/user/927865).
-* Наставник: `Неизвестно`.
+* Наставник: `Татьяна Симоненко`.
 
 ---
 
